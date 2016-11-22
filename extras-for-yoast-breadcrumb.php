@@ -2,7 +2,7 @@
 /*
 Plugin Name: EXTRAS for Yoast Breadcrumb
 Plugin URI: http://agmialdea.info/extras-para-yoast-breadcrumb
-Description: Incluye un widget y shortcode para implementar el Breadcrumb de "Yoast SEO" donde quieras
+Description: Shortcode and widget to include Yoast's breadcrumb function everywhere on your WordPress website.
 Author: Alejandro Gil
 Author URI: http://agmialdea.info
 
