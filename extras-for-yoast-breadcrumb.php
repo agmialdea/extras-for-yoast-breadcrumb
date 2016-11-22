@@ -78,7 +78,7 @@ class YBreadcrumb_Widget extends WP_Widget {
 	{
 		// Obligamos a $instance a ser un array con todas las opciones disponibles
 		$instance = wp_parse_args( (array) $instance, array(
-						'title' => '¿D&oacute;nde estas?',
+						'title' => '¿D&oacute;nde est&aacute;s?',
                         'tag1'   => 'h3',
                         'tag2'   => 'div',
                         'id'    => 'breadcrumb'
